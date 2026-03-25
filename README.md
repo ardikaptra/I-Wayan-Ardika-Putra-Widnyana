@@ -10,7 +10,6 @@ Setelah data tersimpan, array tersebut diproses untuk mendapatkan informasi sepe
 
 Penggunaan array dalam program ini mempermudah pengolahan data karena semua nilai disimpan dalam satu struktur yang sama dan dapat diproses secara berurutan.
 
-
 ## Screenshot 
 
 ### Input
